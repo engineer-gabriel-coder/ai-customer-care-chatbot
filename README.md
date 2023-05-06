@@ -17,10 +17,6 @@
 
 - Adding a <Toaster /> component to display the toast, this goes in the Providers.tsx
 
-## Feedback
-
-If you have any feedback, please reach out to me at admin@wordful.ai
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
